@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CarHttp\CarHttpServer\bin\Debug\net6.0\CarHttpServer.exe
+C:\Users\User\source\repos\CarHttp\CarHttpServer\bin\Debug\net6.0\CarHttpServer.deps.json
+C:\Users\User\source\repos\CarHttp\CarHttpServer\bin\Debug\net6.0\CarHttpServer.runtimeconfig.json
+C:\Users\User\source\repos\CarHttp\CarHttpServer\bin\Debug\net6.0\CarHttpServer.dll
+C:\Users\User\source\repos\CarHttp\CarHttpServer\bin\Debug\net6.0\ref\CarHttpServer.dll
+C:\Users\User\source\repos\CarHttp\CarHttpServer\bin\Debug\net6.0\CarHttpServer.pdb
+C:\Users\User\source\repos\CarHttp\CarHttpServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\CarHttpServer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\CarHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\CarHttpServer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\CarHttpServer.AssemblyInfo.cs
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\CarHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\CarHttpServer.csproj.CopyComplete
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\CarHttpServer.dll
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\ref\CarHttpServer.dll
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\CarHttpServer.pdb
+C:\Users\User\source\repos\CarHttp\CarHttpServer\obj\Debug\net6.0\CarHttpServer.genruntimeconfig.cache

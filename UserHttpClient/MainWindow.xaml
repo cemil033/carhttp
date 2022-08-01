@@ -1,0 +1,42 @@
+﻿<Window x:Class="UserHttpClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserHttpClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Margin="20" Height="50" Width="100"  Content="Get" Click="Button_Click_1"></Button>
+                <Button Margin="20" Content="Post" Height="50" Width="100" Click="Button_Click"></Button> 
+            </StackPanel>            
+            <Grid Height="345">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <StackPanel>
+                    <Label HorizontalAlignment="Center" Margin="10">ID</Label>
+                    <TextBox x:Name="tb_id" Width="150" Height="30"></TextBox>
+                    <Label HorizontalAlignment="Center" Margin="10">Name</Label>
+                    <TextBox x:Name="tb_name" Width="150" Height="30"></TextBox>
+                    <Label HorizontalAlignment="Center" Margin="10">Surname</Label>
+                    <TextBox x:Name="tb_surname" Width="150" Height="30"></TextBox>
+                </StackPanel>
+                <ListBox Name="Lst_t" Grid.Column="1">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Margin="10" Text="{Binding Id}"></TextBlock>
+                                <TextBlock Margin="10" Text="{Binding Name}"></TextBlock>
+                                <TextBlock Margin="10" Text="{Binding Surname}"></TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>

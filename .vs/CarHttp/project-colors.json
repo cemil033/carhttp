@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f5c1934-2909-4247-b7fc-11bf47b5249d": {
+      "ProjectGuid": "5f5c1934-2909-4247-b7fc-11bf47b5249d",
+      "DisplayName": "CarHttpServer",
+      "ColorIndex": 0
+    },
+    "ee4bbb6f-9c8a-4473-838e-229912236a20": {
+      "ProjectGuid": "ee4bbb6f-9c8a-4473-838e-229912236a20",
+      "DisplayName": "UserHttpClient",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

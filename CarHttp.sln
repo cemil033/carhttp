@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarHttpServer", "CarHttpServer\CarHttpServer.csproj", "{5F5C1934-2909-4247-B7FC-11BF47B5249D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserHttpClient", "UserHttpClient\UserHttpClient.csproj", "{EE4BBB6F-9C8A-4473-838E-229912236A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5C1934-2909-4247-B7FC-11BF47B5249D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5C1934-2909-4247-B7FC-11BF47B5249D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5C1934-2909-4247-B7FC-11BF47B5249D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5C1934-2909-4247-B7FC-11BF47B5249D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4BBB6F-9C8A-4473-838E-229912236A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4BBB6F-9C8A-4473-838E-229912236A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4BBB6F-9C8A-4473-838E-229912236A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4BBB6F-9C8A-4473-838E-229912236A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B8E1E8B-D12B-45CE-AF4C-005045DEAAA1}
+	EndGlobalSection
+EndGlobal
